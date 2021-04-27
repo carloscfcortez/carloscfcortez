@@ -6,11 +6,11 @@
  
  ## My Skills
  
- > C#
- > Javascript
- > SQL
- > Reactjs
- > Nodejs
+ - C#
+ - Javascript
+ - SQL
+ - Reactjs
+ - Nodejs
  
  
  ## Follow me
