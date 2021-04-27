@@ -1,4 +1,4 @@
-### Hello Welcome! 👋
+### Hello, Welcome! 👋
  👨‍💻 My name is <b>Carlos Cortez</b>. 
  ☕ I'm Software engineer and I love it ❤️
  
