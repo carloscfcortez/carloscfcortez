@@ -1,7 +1,8 @@
 ### Hello Welcome! 👋
- My name is <b>Carlos Cortez</b>. 👨‍💻 I'm Software engineer and I love it ❤️
+ 👨‍💻 My name is <b>Carlos Cortez</b>. 
+ ☕ I'm Software engineer and I love it ❤️
  
- Now I'm working at Stefanini Group!
+ I'm currently working at Stefanini Group!
  
  ## My Skills
  
