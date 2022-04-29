@@ -8,7 +8,8 @@
  
  - C#
  - Javascript
- - SQL
+ - Typescript
+ - SQL Server, Postgresql
  - Reactjs
  - Nodejs
  
