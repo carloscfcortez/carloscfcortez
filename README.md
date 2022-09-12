@@ -16,7 +16,7 @@
 
 ## My Projects
 
-- (Personal Project) SPFWeb - Sistema Profissional Florestal Clique - [Click here](http://spfweb.com.br/)
+- (Personal Project) SPFWeb - Sistema Profissional Florestal - [Click here](http://spfweb.com.br/)
  
  
  ## Follow me
