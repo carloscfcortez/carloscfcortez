@@ -6,12 +6,14 @@
  
  ## My Skills
  
- - C#
+ - C# (.Net Framework, .Net Core)
  - Javascript
  - Typescript
  - SQL Server, Postgresql
  - Reactjs/React Native/Nestjs
  - Nodejs
+ - Azure/Gitlab/GCloud
+ - Docker
 
 
 ## My Projects
