@@ -10,7 +10,7 @@
  - Javascript
  - Typescript
  - SQL Server, Postgresql
- - Reactjs/React Native
+ - Reactjs/React Native/Nestjs
  - Nodejs
 
 
