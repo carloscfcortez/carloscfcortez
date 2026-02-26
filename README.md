@@ -2,7 +2,7 @@
  👨‍💻 My name is <b>Carlos Cortez</b>. 
  ☕ I'm Software engineer and I love it ❤️
  
- I'm currently working at Rakuten Kobo as Independent Contractor
+ I'm currently working at Rakuten Kobo
  
  ## My Skills
  
